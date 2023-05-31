@@ -1,0 +1,101 @@
+   0 cd home
+   1 cd /home
+   2 mkdir animals
+   3 ls
+   4 cd /animals
+   5 cd animals
+   6 mkdir dogs
+   7 mkdir cats
+   8 mkdir fish
+   9 ls
+  10 cd dogs
+  11 touch pluto.txt
+  12 ls
+  13 cd ..
+  14 cd cats
+  15 touch garfield.txt
+  16 cd ..
+  17 cd fish
+  18 touch nemo.txt
+  19 cd ..
+  20 cd /home
+  21 mkdir planets
+  22 cd planets
+  23 touch Mercury.txt
+  24 touch Venus.txt
+  25 touch Mars.txt
+  26 touch Jupiter.txt
+  27 ls
+  28 cd /tpm
+  29 cd /
+  30 ls
+  31 cd /tmp
+  32 touch adam.txt
+  33 cd/home
+  34 cd /home
+  35 mkdir humans
+  36 ls
+  37 cd planets
+  38 rm
+  39 rm file
+  40 rm -a
+  41 rm -r file
+  42 ls
+  43 rm -r Jupiter.txt
+  44 rm -r Mercury.txt
+  45 rm -r Venus.txt
+  46 rm -r Mars.txt
+  47 ls
+  48 cd /opt
+  49 touch Mercury.txt
+  50 touch Mars.txt
+  51 touch Venus.txt
+  52 touch Jupiter.txt
+  53 ls
+  54 mv /opt/Jupiter.txt /home/planets
+  55 mv /opt/Mars.txt /home/planets
+  56 mv /opt/Venus.txt /home/planets
+  57 mv /opt/Mercury.txt /home/planets
+  58 ls
+  59 /home
+  60 cd /home
+  61 tree
+  62 cd /tmp
+  63 ls
+  64 cp /tmp/adam.txt /home/humans
+  65 touch evA
+  66 rm -evA
+  67 rm evA
+  68 ls
+  69 touch evA.txt
+  70 mv /tmp/evA.txt /otp -rename /tmp/evA.txt /tmp/eve.txt
+  71 mv /tmp/evA.txt /otp
+  72 ls
+  73 cd /otp
+  74 cd /
+  75 ls
+  76 cd otp
+  77 cd /otp
+  78 mv /otp/evA.txt /tmp
+  79 cd /opt
+  80 ls
+  81 cd /tmp
+  82 ls
+  83 touch evA.txt
+  84 mv /tmp/evA.txt /opt/eve.txt
+  85 ls
+  86 cd /opt
+  87 ls
+  88 mv /opt/eve.txt /home/humans
+  89 cd /home
+  90 cd humans
+  91 ls
+  92 cd
+  93 tree
+  94 cd /home
+  95 tree
+  96 cdc
+  97 cd
+  98 hystory
+  99 history
+ 100 history > history.txt
